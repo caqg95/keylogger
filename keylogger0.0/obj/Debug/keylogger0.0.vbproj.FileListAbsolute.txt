@@ -1,0 +1,73 @@
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\bin\Debug\keylogger0.0.exe.config
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\bin\Debug\keylogger0.0.exe
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\bin\Debug\keylogger0.0.pdb
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\bin\Debug\keylogger0.0.xml
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\obj\Debug\keylogger0._0.Form1.resources
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\obj\Debug\keylogger0._0.Resources.resources
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\obj\Debug\keylogger0.0.vbproj.GenerateResource.Cache
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\obj\Debug\keylogger0.0.exe
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\obj\Debug\keylogger0.0.xml
+C:\Users\Quintero G\AppData\Local\Temporary Projects\keylogger0.0\obj\Debug\keylogger0.0.pdb
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\bin\Debug\keylogger0.0.exe.config
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\obj\Debug\keylogger0.0.exe
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\obj\Debug\keylogger0.0.xml
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\obj\Debug\keylogger0.0.pdb
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\bin\Debug\keylogger0.0.exe
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\bin\Debug\keylogger0.0.pdb
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\bin\Debug\keylogger0.0.xml
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\obj\Debug\keylogger0._0.Form1.resources
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\obj\Debug\keylogger0._0.Resources.resources
+C:\Users\Quintero G\Documents\Visual Studio 2012\Projects\keylogger0.0\keylogger0.0\obj\Debug\keylogger0.0.vbproj.GenerateResource.Cache
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\bin\Debug\keylogger0.0.exe.config
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\obj\Debug\keylogger0.0.exe
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\obj\Debug\keylogger0.0.xml
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\obj\Debug\keylogger0.0.pdb
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\bin\Debug\keylogger0.0.exe
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\bin\Debug\keylogger0.0.pdb
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\bin\Debug\keylogger0.0.xml
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\obj\Debug\keylogger0._0.Form1.resources
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\obj\Debug\keylogger0._0.Resources.resources
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\FRANCO\Desktop\keylogger0.0\keylogger0.0\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\bin\Debug\keylogger0.0.exe.config
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\obj\Debug\keylogger0.0.exe
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\obj\Debug\keylogger0.0.xml
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\obj\Debug\keylogger0.0.pdb
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\bin\Debug\keylogger0.0.exe
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\bin\Debug\keylogger0.0.pdb
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\bin\Debug\keylogger0.0.xml
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\obj\Debug\keylogger0._0.Form1.resources
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\obj\Debug\keylogger0._0.Resources.resources
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\FRANCO\Desktop\keylogger0.0 - copia\keylogger0.0\obj\Debug\GenerateResource.write.1.tlog
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\bin\Debug\keylogger0.0.exe.config
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0.0.exe
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0.0.xml
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0.0.pdb
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\bin\Debug\keylogger0.0.exe
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\bin\Debug\keylogger0.0.pdb
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\bin\Debug\keylogger0.0.xml
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0._0.Form1.resources
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0._0.Resources.resources
+D:\GITPROYECTOS\keylogger\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0.0.vbproj.GenerateResource.Cache
+C:\Users\Quintero G\Desktop\keylogger\keylogger0.0\bin\Debug\keylogger0.0.exe.config
+C:\Users\Quintero G\Desktop\keylogger\keylogger0.0\obj\Debug\keylogger0.0.exe
+C:\Users\Quintero G\Desktop\keylogger\keylogger0.0\obj\Debug\keylogger0.0.xml
+C:\Users\Quintero G\Desktop\keylogger\keylogger0.0\obj\Debug\keylogger0.0.pdb
+D:\GITPROYECTOS\keylogger\keylogger0.0\bin\Debug\keylogger0.0.exe.config
+D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0.0.exe
+D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0.0.xml
+D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0.0.pdb
+D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\Interop.ACTIVESKINLib.dll
+D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\AxInterop.ACTIVESKINLib.dll
+D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0.0.vbproj.ResolveComReference.cache
+D:\GITPROYECTOS\keylogger\keylogger0.0\bin\Debug\keylogger0.0.exe
+D:\GITPROYECTOS\keylogger\keylogger0.0\bin\Debug\keylogger0.0.pdb
+D:\GITPROYECTOS\keylogger\keylogger0.0\bin\Debug\keylogger0.0.xml
+D:\GITPROYECTOS\keylogger\keylogger0.0\bin\Debug\Interop.ACTIVESKINLib.dll
+D:\GITPROYECTOS\keylogger\keylogger0.0\bin\Debug\AxInterop.ACTIVESKINLib.dll
+D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0._0.Form1.resources
+D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0._0.Resources.resources
+D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0.0.vbproj.GenerateResource.Cache
