@@ -71,3 +71,14 @@ D:\GITPROYECTOS\keylogger\keylogger0.0\bin\Debug\AxInterop.ACTIVESKINLib.dll
 D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0._0.Form1.resources
 D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0._0.Resources.resources
 D:\GITPROYECTOS\keylogger\keylogger0.0\obj\Debug\keylogger0.0.vbproj.GenerateResource.Cache
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\bin\Debug\keylogger0.0.exe.config
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0.0.vbproj.ResolveComReference.cache
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0.0.exe
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0.0.xml
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0.0.pdb
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\bin\Debug\keylogger0.0.exe
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\bin\Debug\keylogger0.0.pdb
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\bin\Debug\keylogger0.0.xml
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0._0.Form1.resources
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0._0.Resources.resources
+D:\GITPROYECTOS\keylogger\keylogger\keylogger0.0\obj\Debug\keylogger0.0.vbproj.GenerateResource.Cache
